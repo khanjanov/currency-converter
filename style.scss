@@ -76,22 +76,6 @@ body {
         }
       }
     }
-    button {
-      margin-top: 12px;
-      width: 100%;
-      border: none;
-      outline: none;
-
-      padding: 8px 12px;
-      cursor: pointer;
-      background-color: purple;
-      color: white;
-      transition: 0.2s ease-in-out;
-
-      &:hover {
-        background-color: rgb(94, 1, 94);
-      }
-    }
   }
 }
 
