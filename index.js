@@ -34,7 +34,6 @@ const setCurrencies = () => {
     const option = document.createElement("option");
     option.value = item.code;
     option.text = item.code + "-" + item.name;
-    option.setAttribute("data-symbol", item.symbol);
 
     toCurrencySelect.append(option.cloneNode(true));
     fromCurrencySelect.append(option);
