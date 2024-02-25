@@ -1,0 +1,76 @@
+{
+  "currencies": [
+    {
+      "code": "USD",
+      "name": "United States Dollar",
+      "symbol": "$",
+      "value": 1
+    },
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "value": 0.92
+    },
+    {
+      "code": "JPY",
+      "name": "Japanese Yen",
+      "symbol": "¥",
+      "value": 150
+    },
+    {
+      "code": "GBP",
+      "name": "British Pound",
+      "symbol": "£",
+      "value": 0.79
+    },
+    {
+      "code": "AUD",
+      "name": "Australian Dollar",
+      "symbol": "$",
+      "value": 1.52
+    },
+    {
+      "code": "CAD",
+      "name": "Canadian Dollar",
+      "symbol": "$",
+      "value": 1.35
+    },
+    {
+      "code": "CHF",
+      "name": "Swiss Franc",
+      "symbol": "CHF",
+      "value": 0.88
+    },
+    {
+      "code": "CNY",
+      "name": "Chinese Yuan",
+      "symbol": "¥",
+      "value": 7.19
+    },
+    {
+      "code": "SEK",
+      "name": "Swedish Krona",
+      "symbol": "kr",
+      "value": 10.32
+    },
+    {
+      "code": "NZD",
+      "name": "New Zealand Dollar",
+      "symbol": "$",
+      "value": 1.61
+    },
+    {
+      "code": "AZN",
+      "name": "Azerbaijani Manat",
+      "symbol": "₼",
+      "value": 1.7
+    },
+    {
+      "code": "TRY",
+      "name": "Turkish Lira",
+      "symbol": "₺",
+      "value": 30.94
+    }
+  ]
+}
